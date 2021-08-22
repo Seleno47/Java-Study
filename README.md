@@ -3,5 +3,6 @@
 public class hello world {
 
   public static void main(String[] args) {
-    system.out.println("Hello World!")
+    system.out.println("안녕하세요!")
+  }
 }
