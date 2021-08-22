@@ -1,2 +1,7 @@
 # Java-Study
-자바의 기초, 중급 공부
+// 기초 기초 공부
+public class hello world {
+
+  public static void main(String[] args) {
+    system.out.println("Hello World!")
+}
